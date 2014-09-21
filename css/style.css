@@ -1,12 +1,4 @@
-body {
-  background-image: url('../images/free_range.JPG');
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100%;
-  width: 100%;
-  
-}
-
+/*
 img {
   display: block;
   width: 7%;
@@ -15,26 +7,9 @@ img {
   position: relative;
   top: 30px;
 }
-
-h1 {
-  color: #300D06;
-  font-family: "CoventryGarden";
-  font-size: 500%;
-  margin: 0;
-  position: relative;
-  text-align: center;
-  top: 50px;
-}
-
-p {
-  font-family: 'Doppio One', sans-serif;
-  font-size: 1.1em;
-  position: relative;
-  text-align: center;
-  top: 100px;
-}
-
-@font-face{
-    font-family: "CoventryGarden";
-    src: url('../fonts/COVENTRY.TTF'),
+*/
+span {
+  color: red;
+  display: block;
+  margin-bottom: 10px; 
 }
