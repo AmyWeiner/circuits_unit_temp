@@ -1,0 +1,21 @@
+body {
+  background-image: url('../images/free_range.JPG');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  
+}
+
+p {
+  font-family: "CoventryGarden";
+  font-size: 500%;
+  position: relative;
+  text-align: center;
+  top: 50px;
+}
+
+@font-face{
+    font-family: "CoventryGarden";
+    src: url('../fonts/COVENTRY.TTF'),
+}
